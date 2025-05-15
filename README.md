@@ -79,7 +79,5 @@ This project demonstrates the application of various machine learning techniques
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
----
 
-## 📁 Project Structure
 
